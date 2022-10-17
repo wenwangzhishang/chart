@@ -1,1 +1,65 @@
-<mxfile host="app.diagrams.net" modified="2022-10-17T01:04:26.845Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="20.4.1" etag="MQ5I6MVff-2Agr-EIF_Z" type="github"><diagram id="F8W4d0GJrbdenSg9PYbU">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-17T01:14:10.015Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="kkuSLxg2lIMidFegcOue" version="20.4.1" type="github">
+  <diagram id="F8W4d0GJrbdenSg9PYbU" name="Page-1">
+    <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jlUnc7DgsGa597lhGDi9-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;spacingTop=0;spacingLeft=0;" edge="1" parent="1" source="jlUnc7DgsGa597lhGDi9-1" target="jlUnc7DgsGa597lhGDi9-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jlUnc7DgsGa597lhGDi9-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;spacingTop=0;spacingLeft=0;fillColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="80" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jlUnc7DgsGa597lhGDi9-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;spacingTop=0;spacingLeft=0;" edge="1" parent="1" source="jlUnc7DgsGa597lhGDi9-2" target="jlUnc7DgsGa597lhGDi9-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jlUnc7DgsGa597lhGDi9-2" value="积分兑换" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#67AB9F;spacingTop=0;spacingLeft=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jlUnc7DgsGa597lhGDi9-11" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;spacingTop=0;spacingLeft=0;" edge="1" parent="1" source="jlUnc7DgsGa597lhGDi9-6" target="jlUnc7DgsGa597lhGDi9-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jlUnc7DgsGa597lhGDi9-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jlUnc7DgsGa597lhGDi9-6" target="jlUnc7DgsGa597lhGDi9-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jlUnc7DgsGa597lhGDi9-22" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];spacingTop=0;spacingLeft=0;" vertex="1" connectable="0" parent="jlUnc7DgsGa597lhGDi9-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jlUnc7DgsGa597lhGDi9-6" value="扣减积分" style="rhombus;whiteSpace=wrap;html=1;rounded=0;spacingTop=0;spacingLeft=0;fillColor=#FFFF33;" vertex="1" parent="1">
+          <mxGeometry x="500" y="240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jlUnc7DgsGa597lhGDi9-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;spacingTop=0;spacingLeft=0;" edge="1" parent="1" source="jlUnc7DgsGa597lhGDi9-10" target="jlUnc7DgsGa597lhGDi9-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jlUnc7DgsGa597lhGDi9-16" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];spacingTop=0;spacingLeft=0;" vertex="1" connectable="0" parent="jlUnc7DgsGa597lhGDi9-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jlUnc7DgsGa597lhGDi9-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jlUnc7DgsGa597lhGDi9-10" target="jlUnc7DgsGa597lhGDi9-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jlUnc7DgsGa597lhGDi9-10" value="发放优惠券" style="rhombus;whiteSpace=wrap;html=1;rounded=0;spacingTop=0;spacingLeft=0;fillColor=#FFFF33;" vertex="1" parent="1">
+          <mxGeometry x="670" y="240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jlUnc7DgsGa597lhGDi9-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;spacingTop=0;spacingLeft=0;" edge="1" parent="1" source="jlUnc7DgsGa597lhGDi9-12" target="jlUnc7DgsGa597lhGDi9-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jlUnc7DgsGa597lhGDi9-12" value="VFService存兑换记录" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#67AB9F;spacingTop=0;spacingLeft=0;" vertex="1" parent="1">
+          <mxGeometry x="820" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jlUnc7DgsGa597lhGDi9-14" value="结束" style="rounded=1;whiteSpace=wrap;html=1;spacingTop=0;spacingLeft=0;fillColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jlUnc7DgsGa597lhGDi9-18" value="返还扣减积分" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jlUnc7DgsGa597lhGDi9-20" value="提示失败信息" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
